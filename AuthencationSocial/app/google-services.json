@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "621658340507",
+    "firebase_url": "https://caro-f845e.firebaseio.com",
+    "project_id": "caro-f845e",
+    "storage_bucket": "caro-f845e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621658340507:android:55e5272315769aaf",
+        "android_client_info": {
+          "package_name": "com.example.pna.authencationsocial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "621658340507-p3imsga1dg69vdc4rhlqnomfrk40qacf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAflJVIfVjxgrZhZo32vzL-KRJu46fWieQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
